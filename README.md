@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning.
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,c,bots,haskell,java,idea,latex,linux,mint,obsidian,ps,php,py,pycharm,raspberrypi,replit,sqlite,selenium,ubuntu,visualstudio,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,c,bots,haskell,java,idea,latex,linux,mint,obsidian,ps,php,py,pycharm,raspberrypi,replit,sqlite,selenium,ubuntu,visualstudio,windows&perline=6)](https://skillicons.dev)
